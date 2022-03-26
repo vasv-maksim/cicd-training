@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/vasv-maksim/cicd-training.git
+    hooks:
+      - id: ansible-lint
+        files: \.(yaml|yml)$

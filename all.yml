@@ -1,0 +1,7 @@
+---
+- name: ci-cd-training
+  hosts: remote
+  roles:
+    - role: test-role
+
+
