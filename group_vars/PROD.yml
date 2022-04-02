@@ -1,0 +1,4 @@
+---
+ansible_port: 49182 
+ansible_connection: ssh 
+ansible_user: mix308
